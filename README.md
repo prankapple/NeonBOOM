@@ -1,6 +1,5 @@
 # NeonBOOM
 New GDI trojan i made.
-LINK : [link](https://archive.org/details/neon-boom)
 
 # WARNING: Malicious Software Alert 🚨
 
